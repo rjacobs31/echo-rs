@@ -1,0 +1,8 @@
+[package]
+name = "echo-rs"
+version = "0.1.0"
+authors = ["Rudolph Jacobs <jacobsrudolph@yahoo.com>"]
+
+[dependencies]
+futures = "0.1.14"
+hyper = "0.11.2"
